@@ -1,4 +1,4 @@
-# Eye Tracking Explainability Pipeline
+# Eye Tracking Explainability Evaluation Pipeline
 
 ### Install requirements
 
