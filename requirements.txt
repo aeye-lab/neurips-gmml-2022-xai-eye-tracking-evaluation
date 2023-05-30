@@ -99,6 +99,7 @@ pycparser==2.21
 pyDeprecate==0.3.2
 pyflakes==2.5.0
 Pygments==2.13.0
+pymovements==0.1.0
 pyparsing==3.0.9
 pyrsistent==0.18.1
 pytest==7.1.2
